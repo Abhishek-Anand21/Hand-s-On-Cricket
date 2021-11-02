@@ -1,7 +1,7 @@
 # Hand-s-On-Cricket
 This is a Project Based on Cricket Game between the User and the Computer.
 It's a famous game among teenagers played between two. Where they randomly pick any number between 1-6
-using their fingers and if the opponent also pick the same number then the player is out otherwisde it's a run.
+using their fingers and if the opponent also pick the same number then the player is out otherwise it's a run.
 
 # About The Code
 
